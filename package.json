@@ -1,0 +1,8 @@
+{
+  "name": "vue-vuex",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue-router": "^3.1.5"
+  }
+}
